@@ -1,0 +1,29 @@
+{
+  "name": "project-flip-tiles",
+  "version": "1.0.0",
+  "description": "Animated flip tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikejackson78/project-flip-tiles.git"
+  },
+  "keywords": [
+    "Animation",
+    "jQuery",
+    "Javascript"
+  ],
+  "author": "Mike Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikejackson78/project-flip-tiles/issues"
+  },
+  "homepage": "https://github.com/mikejackson78/project-flip-tiles#readme",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
